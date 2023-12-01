@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&fontColor=ffffff&height=180&section=header&text=thetitle&fontSize=32" />
 
 Hi there 👋<br/>
-this is thetitle's introduction page.<br/>
+this is thetititle's introduction page.<br/>
 I'm jr.Front-End Engineer who based in seoul, korea!<br/>
 My main skill is html, CSS, JavaScript and VUE🖤
 
