@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&fontColor=ffffff&height=180&section=header&text=thetitle&fontSize=32" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&fontColor=ffffff&height=180&section=header&text=thetititle&fontSize=32" />
 
 Hi there 👋<br/>
 this is thetititle's introduction page.<br/>
