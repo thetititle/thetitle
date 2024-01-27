@@ -4,10 +4,14 @@
 Hi there 👋<br/>
 this is thetititle's introduction page.<br/>
 I'm jr.Front-End Engineer who based in seoul, korea!<br/>
-My main skill is html, CSS, JavaScript and VUE🖤
+My main skill is html, CSS, JavaScript and VUE🖤<br/>
+<br/>
+비전공자에 학원출신이라는 약점이 있지만 그럼에도 계속 꾸준히 해보려고 노력합니다!<br/>
+커뮤니케이션과 기록의 중요성을 깨달아 블로그 운영도 시작했어요.ฅ(^▸ਉ◂^)ฅ<br/>
 
-비전공자에 학원출신이라는 약점이 있지만 그럼에도 계속 꾸준히 해보려고 노력합니다!
-커뮤니케이션과 기록의 중요성을 깨달아 블로그 운영도 시작했어요.ฅ(^▸ਉ◂^)ฅ
+<br/>
+<a href="https://velog.io/@thetitle/posts" target="_blank">📖thetitle's velog📖</a>
+<br/>
 
 ### _🖥All tech stack is here._
 
