@@ -31,6 +31,23 @@ and
 <br/>
 but it's not enough, so I’m currently learning and Practice these all things.✍🏻
 <br/>
+<br/>
+
+### _💻Acrchive web site_
+
+<img src="http://thetititle.com/img/SECTION1.jpg">
+Pinterest에서 레이아웃 샘플을 뽑아 그를 기반으로 디자인했으며,
+<br/>
+현재 VUE3기반의 QUASAR로 구현되어있으며 반응형 적용 완료되었습니다. 곧 REACT 버전도 구현될 것이에요!
+<br/>
+<a href="https://www.figma.com/file/BppUrWJDWioiMDQ3XMWiPh/framework-ver?type=design&node-id=0%3A1&mode=design&t=IexUMjDJxX4exYlJ-1">🌈go figma</a>
+<br/>
+<a href="http://thetititle.com/">🎈go vue3(quasar) ver page</a>
+<br/>
+<br/>
+#### 🖱used skill
+<img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="css3" src ="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Scss" src ="https://img.shields.io/badge/Scss-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="VUE3" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=/vuedotjs&logoColor=white"/><img alt="QUASAR" src ="https://img.shields.io/badge/quasar-050A14.svg?&style=for-the-badge&logo=quasar&logoColor=white"/>
+<br/>
 </div>
 <!--
 **thetitle/thetitle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,4 +62,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
