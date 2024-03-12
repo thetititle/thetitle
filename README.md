@@ -33,17 +33,9 @@ but it's not enough, so I’m currently learning and Practice these all things.�
 <br/>
 <br/>
 
-### _💻Acrchive web site_
-
-<img src="http://thetititle.com/img/SECTION1.jpg">
-Pinterest에서 레이아웃 샘플을 뽑아 그를 기반으로 디자인했으며,
-<br/>
-현재 VUE3기반의 QUASAR로 구현되어있으며 반응형 적용 완료되었습니다.<br/>
-새로운 디자인의 REACT 버전은 현재 제작중에 있습니다.
+### <a href="http://thetititle.com/">_🎈Acrchive web site💻_</a>
 <br/>
 <a href="https://www.figma.com/file/BppUrWJDWioiMDQ3XMWiPh/framework-ver?type=design&node-id=0%3A1&mode=design&t=IexUMjDJxX4exYlJ-1">🌈go figma</a>
-<br/>
-<a href="http://thetititle.com/">🎈go vue3(quasar) ver page</a>
 <br/>
 <br/>
 
